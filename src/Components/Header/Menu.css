@@ -1,0 +1,34 @@
+.menuContainer {
+
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+
+}
+.menuUL{
+
+    float: right;
+
+}
+.logo {
+
+    width: 60px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    float: left;
+}
+
+.logo p {
+
+    font-size: 3em;
+    line-height: 6px;
+
+
+}
+
+li {
+
+    list-style-type: none;
+
+}
