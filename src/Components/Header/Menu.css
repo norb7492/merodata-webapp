@@ -8,6 +8,13 @@
 .menuUL{
 
     float: right;
+    margin-top: 48px;
+
+}
+.menuUL li{
+
+    padding-right: 30px;
+    float: left;
 
 }
 .logo {

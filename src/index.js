@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MainApp from './Components/MainComponent/MainApp';
 import './index.css';
 
+
+//Importing router
+import PagesRouter from "./Routers/pages-router";
+
 ReactDOM.render(
-  <MainApp />,
+  <PagesRouter/>,
   document.getElementById('root')
 );
